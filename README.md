@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm Dilshodbek
+Hi there, I'm Ozodbek
 </h3>
 
 <h2 align="center">
