@@ -28,14 +28,8 @@ A passionate backend developer from Uzbekistan
 ## Technical Skills
 
 ![](https://img.shields.io/badge/Python-information?color=3670A0&style=flat&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/PHP-information?color=%23777BB4&style=flat&logo=php&logoColor=white)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
 </br>
-
-![](https://img.shields.io/badge/bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/CSS3-information?color=%231572B6&style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-information?color=%23E34F26&style=flat&logo=html5&logoColor=white)
 </br>
 
